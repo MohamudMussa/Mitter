@@ -8,13 +8,36 @@
 position: absolute;
 left: 1.58%;
 right: -24.46%;
-top: 0%;
+top: 2%;
 bottom: -7.86%;
 
 /* Accent / Default */
 background: #3C64B1;
-opacity: 0.06;
+/* opacity: 0.06; */
 border-radius: 117px;
+width: 30vmin;
+height: 90vmin;
+
+}
+
+.tweetDesign{
+
+top: 2%;
+
+
+
+
+
+/* Accent / Default */
+background: #3C64B1;
+/* opacity: 0.06; */
+border-radius: 117px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 0px;
 
 }
 
