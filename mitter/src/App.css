@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.containerTwitter{
+  /* bg */
+
+position: absolute;
+left: 1.58%;
+right: -24.46%;
+top: 0%;
+bottom: -7.86%;
+
+/* Accent / Default */
+background: #3C64B1;
+opacity: 0.06;
+border-radius: 117px;
+
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

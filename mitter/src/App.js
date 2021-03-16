@@ -1,27 +1,11 @@
 import './App.css';
+import Menu from './Components/Menu';
 
 function App() {
   return (
     <div className="container">
+      <Menu />
 
-
-
-    <form>
-
-      <label>
-        What's on your mind?
-         
-      <input type="text" name="tweet"/>
-        
-      </label>
-
-      <label>
-        Tweet
-      </label>
-      <input type="submit" name="send"/> 
-
-
-    </form>
     </div>
   );
 }
